@@ -1,6 +1,6 @@
-// Copyright (c) 2022 Chris Di Bert All rights reserved.
+// Copyright (c) 2022 Tamer Zreg All rights reserved.
 // .
-// Created by: Chris Di Bert
+// Created by: Tamer Zreg
 // Date: Nov.1, 2022
 // This program calculates the factorial value of an integer.
 
